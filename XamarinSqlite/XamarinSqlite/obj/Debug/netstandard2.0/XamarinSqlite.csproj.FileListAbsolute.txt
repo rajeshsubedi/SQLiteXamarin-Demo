@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\EmployeeDetail.xaml.g.cs
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\EmployeePage.xaml.g.cs
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.AssemblyInfo.cs
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.deps.json
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\bin\Debug\netstandard2.0\XamarinSqlite.pdb
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.dll
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\ref\XamarinSqlite.dll
+C:\Users\hp\source\repos\XamarinSqlite\XamarinSqlite\XamarinSqlite\obj\Debug\netstandard2.0\XamarinSqlite.pdb
